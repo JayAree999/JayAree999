@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jay</h1>
-<h3 align="center">Fullstack Dev</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayaree999" alt="jayaree999" /></a> </p>
 
 - 📫 How to reach me **jayyqwe123@gmail.com**
 
